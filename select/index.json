@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "THE DARK",
+  "base_artist": "DEXCORE",
+  "createdAt": "2026-03-27T15:00:30.062528Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Iris in the Dark",
+      "artist": "Just A Gent feat. McCall",
+      "has_synced": true,
+      "path": "select/01_Iris_in_the_Dark_Just_A_Gent_feat._McCall.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Iris in the Dark",
+      "artist": "Just a Gent, McCall",
+      "has_synced": true,
+      "path": "select/02_Iris_in_the_Dark_Just_a_Gent,_McCall.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fishin' in the Dark",
+      "artist": "The Nitty Gritty Dirt Band",
+      "has_synced": true,
+      "path": "select/03_Fishin'_in_the_Dark_The_Nitty_Gritty_Dirt_Band.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fishin' in the Dark (Album Version)",
+      "artist": "The Nitty Gritty Dirt Band",
+      "has_synced": true,
+      "path": "select/04_Fishin'_in_the_Dark_(Album_Version)_The_Nitty_Gritty_Dirt_Band.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fishing In The Dark (Remastered 2001)",
+      "artist": "The Nitty Gritty Dirt Band",
+      "has_synced": true,
+      "path": "select/05_Fishing_In_The_Dark_(Remastered_2001)_The_Nitty_Gritty_Dirt_Band.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Racing The Dark",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/06_Racing_The_Dark_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Smoke Rings in the Dark",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/07_Smoke_Rings_in_the_Dark_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Balancing the Dark",
+      "artist": "Rolo Tomassi",
+      "has_synced": true,
+      "path": "select/08_Balancing_the_Dark_Rolo_Tomassi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Do the Dark",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/09_Do_the_Dark_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shot In The dArk",
+      "artist": "RJD2",
+      "has_synced": false,
+      "path": "select/10_Shot_In_The_dArk_RJD2.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dance in the Dark",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/11_Dance_in_the_Dark_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Drawing In the Dark",
+      "artist": "YACHT",
+      "has_synced": false,
+      "path": "select/12_Drawing_In_the_Dark_YACHT.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In The Dark",
+      "artist": "YG",
+      "has_synced": true,
+      "path": "select/13_In_The_Dark_YG.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dance In The Dark",
+      "artist": "Lady Gaga",
+      "has_synced": false,
+      "path": "select/14_Dance_In_The_Dark_Lady_Gaga.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dance in the Dark",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/15_Dance_in_the_Dark_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Diamond in the Dark (feat. Slayyyter)",
+      "artist": "Liz",
+      "has_synced": true,
+      "path": "select/16_Diamond_in_the_Dark_(feat._Slayyyter)_Liz.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Middle Of The Dark",
+      "artist": "Lightspeed Champion",
+      "has_synced": true,
+      "path": "select/17_Middle_Of_The_Dark_Lightspeed_Champion.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "THE DARK",
+      "artist": "DEXCORE",
+      "has_synced": false,
+      "path": "select/pl_01_THE_DARK_DEXCORE.txt"
+    }
+  ]
+}
